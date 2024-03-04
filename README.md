@@ -89,7 +89,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab7/B20EE087_Control_Systems_Lab7.pdf)
 
 
-## Steady State Error
+## Coupled Tank System
 
 | ![Increasing the value of Ki for tank1:](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab8/image.png) |
 |:--:| 
