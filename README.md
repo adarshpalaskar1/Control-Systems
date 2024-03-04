@@ -1,4 +1,4 @@
-## Lab 1: Solution of a Differential Equation Matlab-Simulink
+## Solution of a Differential Equation Matlab-Simulink
 
 | ![Simulink Block Diagram](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab1/diff_eqn.png) |
 |:--:| 
@@ -6,7 +6,7 @@
 
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab1/Control_Systems_Lab1.pdf)
 
-## Lab 2: Modeling of P-controller based d.c. motor in Simulink using state space model (using differential equations) and transfer functions based model.
+## Modeling of P-controller based d.c. motor in Simulink using state space model (using differential equations) and transfer functions based model.
 
 | ![Control Loop Circuit](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab2/m2_cir.png) |
 |:--:| 
@@ -24,7 +24,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 
 
 
-## Lab 3: State feedback controller design
+## State feedback controller design
 
 | ![Block diagram with state feedback](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab3/block_dia.jpg) |
 |:--:| 
@@ -34,7 +34,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab3/B20EE087_Control_Systems_Lab3.pdf)
 
-## Lab 4: Observer Design
+## Observer Design
 
 | ![Full order state observer](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab4/ob_design.jpg) |
 |:--:| 
@@ -46,7 +46,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 
 
 
-## Lab 5: Magnetic Levitation
+## Magnetic Levitation
 
 | ![Current Response](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab5/ic.png) |
 |:--:| 
@@ -59,7 +59,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab5/B20EE087_Lab5.pdf)
 
 
-## Lab 6: Ball and Beam Position Control using QuaRC
+## Ball and Beam Position Control using QuaRC
 
 | ![Cascade control ball position](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab6/sq_p.jpg) |
 |:--:| 
@@ -80,7 +80,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab6/B20EE087_Control_Systems_Lab6.pdf)
 
 
-## Lab 7: Steady State Error
+## Steady State Error
 
 | ![Two poles at origin of G(s):](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab7/G3_1_800.jpg) |
 |:--:| 
@@ -89,7 +89,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab7/B20EE087_Control_Systems_Lab7.pdf)
 
 
-## Lab 8: Steady State Error
+## Steady State Error
 
 | ![Increasing the value of Ki for tank1:](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab8/image.png) |
 |:--:| 
@@ -98,7 +98,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab8/B20EE087_Lab8.pdf)
 
 
-## Lab 9: Inverted Pendulum
+## Inverted Pendulum
 
 | ![Rotary inverted pendulum modeling](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab9/d.jpg) |
 |:--:| 
@@ -121,7 +121,7 @@ Full Report [here](https://github.com/adarshpalaskar1/Control-Systems/blob/main/
 
 
 
-## Lab 10: Halfquadrotor
+## Halfquadrotor
 
 | ![Setup](https://github.com/adarshpalaskar1/Control-Systems/blob/main/Lab10/setup.jpg) |
 |:--:| 
